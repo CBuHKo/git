@@ -1,3 +1,3 @@
 # Git and Github Cource
 
-Crach cource for Git 
+Crash cource for Git 
